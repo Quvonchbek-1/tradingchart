@@ -1,0 +1,368 @@
+2026-10-29 19:23:07,423 | INFO | Hisob: 500385418 | Balans: 50000.0 | Server: Forex Club International LLC | DRY_RUN=True
+2026-10-29 19:23:07,451 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 19:23:08,091 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 19:23:08,092 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 19:23:10,095 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 19:23:10,317 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 19:23:10,318 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 19:23:14,319 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 19:23:14,611 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 19:23:14,612 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 19:28:31,467 | INFO | Hisob: 500385418 | Balans: 50000.0 | Server: Forex Club International LLC | DRY_RUN=True
+2026-10-29 19:28:31,492 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 19:28:32,118 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 19:28:32,119 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 19:28:34,120 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 19:28:34,340 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 19:28:34,341 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 19:28:38,342 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 19:28:38,529 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 19:28:38,531 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 19:30:15,524 | INFO | Hisob: 500385418 | Balans: 50000.0 | Server: Forex Club International LLC | DRY_RUN=True
+2026-10-29 19:30:15,551 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 19:30:16,158 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 19:30:16,159 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 19:30:16,748 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 19:30:17,267 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 19:30:17,268 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 19:30:18,159 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 19:30:18,424 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 19:30:18,425 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 19:30:18,576 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 19:30:19,162 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 19:30:19,163 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 19:30:19,268 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 19:30:19,529 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 19:30:19,529 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 19:30:21,163 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 19:30:21,357 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 19:30:21,358 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 19:30:22,426 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 19:30:22,647 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 19:30:22,651 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 19:30:23,530 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 19:30:23,755 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 19:30:23,757 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 19:30:25,359 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 19:30:25,568 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 19:30:25,569 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 19:33:09,553 | INFO | Hisob: 500385418 | Balans: 50000.0 | Server: Forex Club International LLC | DRY_RUN=True
+2026-10-29 19:33:09,584 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 19:33:10,210 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 19:33:10,211 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 19:33:12,212 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 19:33:12,416 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 19:33:12,417 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 19:33:16,418 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 19:33:16,603 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 19:33:16,606 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 19:37:13,068 | INFO | Hisob: 500385418 | Balans: 50000.0 | Server: Forex Club International LLC | DRY_RUN=True
+2026-10-29 19:37:13,095 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 19:42:26,698 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent "HTTP/1.1 200 OK"
+2026-10-29 19:42:26,729 | INFO | AI: HOLD (75%) - Narx ikkala EMA dan yuqoriga ko'tarilgan bo'lsa-da, EMA20 hali ham EMA50 dan pastda joylashgan va aniq trend shakllanmagan. Signal ziddiyatli bo'lgani sababli kutiladi.
+2026-10-29 19:45:13,756 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 19:45:14,369 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 19:45:14,371 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 19:45:15,547 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 19:45:15,975 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 19:45:15,976 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 19:45:16,236 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 19:45:16,371 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 19:45:16,583 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 19:45:16,584 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 19:45:16,644 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 19:45:16,645 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 19:45:17,110 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 19:45:17,572 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 19:45:17,978 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 19:45:17,990 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 19:45:17,992 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 19:45:18,183 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 19:45:18,184 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 19:45:18,646 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 19:45:18,860 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 19:45:18,861 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 19:45:19,993 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 19:45:20,216 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 19:45:20,227 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 19:45:20,585 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 19:45:20,909 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 19:45:20,911 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 19:45:22,186 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 19:45:22,419 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 19:45:22,421 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 19:45:22,862 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 19:45:23,073 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 19:45:23,074 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 19:45:24,229 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 19:45:24,467 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 19:45:24,469 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 19:50:51,587 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent "HTTP/1.1 200 OK"
+2026-10-29 19:50:51,590 | INFO | AI: HOLD (65%) - Narx keskin pasayishdan so'ng yuqoriga qaytgan va EMA darajalaridan yuqoriga chiqqan bo'lsa-da, EMA20 hali ham EMA50 dan pastda turibdi. Trend to'liq shakllanmagan va signallar ziddiyatli.
+2026-10-29 20:00:15,757 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 20:00:16,374 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 20:00:16,375 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 20:00:17,271 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 20:00:17,707 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 20:00:17,708 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 20:00:17,834 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 20:00:17,915 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 20:00:18,324 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 20:00:18,325 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 20:00:18,376 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 20:00:18,673 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 20:00:18,674 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 20:00:19,301 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 20:00:19,566 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent "HTTP/1.1 503 Service Unavailable"
+2026-10-29 20:00:19,567 | WARNING | Gemini xatosi (urinish 1/3): 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-10-29 20:00:19,708 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 20:00:19,927 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 20:00:19,928 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 20:00:20,150 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 20:00:20,151 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 20:00:20,326 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 20:00:20,521 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 20:00:20,523 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 20:00:21,568 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 20:00:22,153 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 20:00:22,339 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 20:00:22,340 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 20:00:22,675 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 20:00:22,893 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 20:00:22,894 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 20:00:23,282 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent "HTTP/1.1 503 Service Unavailable"
+2026-10-29 20:00:23,283 | WARNING | Gemini xatosi (urinish 2/3): 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-10-29 20:00:23,929 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 20:00:24,137 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 20:00:24,138 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 20:00:24,524 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 20:00:24,720 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 20:00:24,721 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 20:00:26,341 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 20:00:26,521 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 20:00:26,523 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 20:00:27,284 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 20:05:46,600 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent "HTTP/1.1 200 OK"
+2026-10-29 20:05:46,603 | INFO | AI: HOLD (65%) - Narx kuchli impuls bilan o'sgan bo'lsa-da, EMA20 (1.11411) va EMA50 (1.11412) hali aniq trendni shakllantirmagan va deyarli teng holatda. Narx harakatlanuvchi o'rtachalardan uzoqlashgani sababli tuzatish (pullback) xavfi yuqori.
+2026-10-29 20:20:32,841 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 20:20:32,842 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 20:20:32,843 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 20:20:32,843 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 20:20:32,845 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 20:20:33,397 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 20:20:33,398 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 20:20:33,400 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 20:20:33,401 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 20:20:33,402 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 20:20:33,461 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 20:20:33,463 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 20:20:35,053 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent "HTTP/1.1 503 Service Unavailable"
+2026-10-29 20:20:35,055 | WARNING | Gemini xatosi (urinish 1/3): 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-10-29 20:20:35,399 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 20:20:35,402 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 20:20:35,403 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 20:20:35,464 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 20:20:35,592 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent "HTTP/1.1 404 Not Found"
+
+2026-10-29 20:20:35,593 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 20:20:35,593 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+
+2026-10-29 20:20:35,702 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 20:20:35,704 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 20:20:37,056 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 20:20:39,594 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 20:20:39,594 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 20:20:39,595 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 20:20:39,705 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 20:20:39,798 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 20:20:39,800 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 20:20:39,807 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 20:20:39,808 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 20:20:39,816 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 20:20:39,817 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 20:20:39,945 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 20:20:39,947 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 21:15:28,352 | WARNING | Gemini xatosi (urinish 2/3): [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение
+2026-10-29 21:15:32,357 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:15:35,114 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:15:35,115 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:15:35,115 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:15:35,117 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:15:35,491 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:15:35,492 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 21:15:35,503 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:15:35,504 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 21:15:35,564 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:15:35,565 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 21:15:35,567 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:15:35,569 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 21:15:37,493 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:15:37,505 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:15:37,567 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:15:37,570 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:15:37,807 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:15:37,808 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 21:15:37,831 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:15:37,831 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:15:37,832 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 21:15:37,832 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 21:15:37,832 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 21:15:41,809 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:15:41,833 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:15:41,833 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:15:42,017 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:15:42,018 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 21:15:42,018 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 21:15:42,077 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:15:42,078 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:15:42,078 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 21:15:42,078 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 21:19:43,807 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent "HTTP/1.1 200 OK"
+2026-10-29 21:19:43,811 | INFO | AI: HOLD (75%) - Kuchli bullish impuls va EMA larning yuqoriga kesishuvi mavjud bo'lsa-da, narx EMA20 dan 27 pipdan ortiq uzoqlashgan (cho'zilgan) va RSI 67.2 darajasida overbought zonasiga yaqinlashmoqda. Korreksiya xavfi yuqoriligi sababli yangi kirish uchun pullback kutish tavsiya etiladi.
+2026-10-29 21:19:43,844 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:20:13,075 | INFO | Hisob: 500385418 | Balans: 50000.0 | Server: Forex Club International LLC | DRY_RUN=True
+2026-10-29 21:20:13,098 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:20:17,541 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent "HTTP/1.1 503 Service Unavailable"
+2026-10-29 21:20:17,542 | WARNING | Gemini xatosi (urinish 1/3): 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-10-29 21:20:19,542 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:24:09,358 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent "HTTP/1.1 200 OK"
+2026-10-29 21:24:09,382 | INFO | AI: BUY (75%) - Narx EMA20 va EMA50 dan yuqorida joylashgan, EMA20 EMA50 ni yuqoriga kesib o'tgan hamda RSI 63.8 darajasida bo'lib, o'sish tendentsiyasini tasdiqlamoqda.
+2026-10-29 21:24:09,395 | INFO | -> BUY lot=2.97 narx=1.11641 SL=1.11473 TP=1.11977
+2026-10-29 21:24:09,396 | INFO | (DRY_RUN: order_check OK, buyurtma yuborilmadi)
+2026-10-29 21:24:42,078 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent "HTTP/1.1 503 Service Unavailable"
+2026-10-29 21:24:42,079 | WARNING | Gemini xatosi (urinish 1/3): 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-10-29 21:24:44,080 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:24:47,899 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent "HTTP/1.1 503 Service Unavailable"
+2026-10-29 21:24:47,901 | WARNING | Gemini xatosi (urinish 2/3): 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-10-29 21:24:51,902 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:24:55,089 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent "HTTP/1.1 503 Service Unavailable"
+2026-10-29 21:24:55,091 | WARNING | Gemini xatosi (urinish 3/3): 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-10-29 21:30:15,401 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:30:17,399 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:30:17,401 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:30:17,520 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:30:17,520 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:30:17,795 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:30:17,797 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 21:30:17,801 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:30:17,802 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 21:30:17,932 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:30:17,934 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 21:30:17,937 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:30:17,939 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 21:30:18,913 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:30:19,798 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:30:19,803 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:30:19,935 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:30:19,940 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:30:20,014 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:30:20,015 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 21:30:20,023 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:30:20,026 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 21:30:20,137 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:30:20,139 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 21:30:20,146 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:30:20,148 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 21:30:24,016 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:30:24,027 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:30:24,140 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:30:24,149 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:30:24,221 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:30:24,223 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 21:30:24,224 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 21:30:24,349 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:30:24,351 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 21:30:24,362 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:30:24,364 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 21:33:47,213 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent "HTTP/1.1 200 OK"
+2026-10-29 21:33:47,217 | INFO | AI: BUY (68%) - EMA20 EMA50 dan yuqorida va ikkalasi ham ko'tarilmoqda, narx EMAlar ustida saqlanmoqda, RSI 57.9 darajasida buqa momentumini tasdiqlaydi.
+2026-10-29 21:35:28,550 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent "HTTP/1.1 200 OK"
+2026-10-29 21:35:28,553 | INFO | AI: HOLD (68%) - Narx EMA20 va EMA50 dan yuqorida bo'lib, o'sish trendi mavjud bo'lsa-da, 1.1172-1.1174 qarshilik zonasidan keyin narx tor diapazonda konsolidatsiyalanmoqda va RSI pasayish tendentsiyasida, yangi aniq turtki signali kutilmoqda.
+2026-10-29 21:45:14,006 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:45:14,535 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:45:14,537 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:45:14,633 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:45:14,634 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:45:14,993 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:45:14,994 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 21:45:15,007 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:45:15,009 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 21:45:15,035 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:45:15,035 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:45:15,038 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 21:45:15,039 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 21:45:15,050 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:45:16,996 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:45:17,010 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:45:17,040 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:45:17,041 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:45:17,228 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:45:17,230 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 21:45:17,233 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:45:17,234 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:45:17,235 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 21:45:17,237 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:45:17,238 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 21:45:17,241 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 21:45:21,232 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:45:21,237 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:45:21,240 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:45:21,243 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 21:45:21,442 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:45:21,443 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 21:45:21,444 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:45:21,446 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 21:45:21,458 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:45:21,458 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 21:45:21,464 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 21:45:21,467 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 21:50:25,540 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent "HTTP/1.1 200 OK"
+2026-10-29 21:50:25,544 | INFO | AI: BUY (68%) - Narx EMA20 va EMA50 dan yuqorida saqlanmoqda, o'rtacha chiziqlar yuqoriga yo'nalgan va RSI (58.6) sog'lom buqa zonasida konsolidatsiyani ko'rsatmoqda.
+2026-10-29 21:51:07,283 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent "HTTP/1.1 200 OK"
+2026-10-29 21:51:07,287 | INFO | AI: BUY (70%) - O'sish trendi davom etmoqda: EMA20 EMA50 dan yuqorida, narx har ikkala ko'rsatkich ustida konsolidatsiyalanmoqda va RSI (58.6) ijobiy buqa zonasida joylashgan.
+2026-10-29 21:51:07,289 | INFO | -> BUY lot=3.14 narx=1.11612 SL=1.11453 TP=1.11929
+2026-10-29 21:51:07,289 | INFO | (DRY_RUN: order_check OK, buyurtma yuborilmadi)
+2026-10-29 22:00:16,965 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 22:00:16,965 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 22:00:17,055 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 22:00:17,056 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 22:00:17,097 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 22:00:17,527 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 22:00:17,529 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 22:00:17,551 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 22:00:17,552 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 22:00:17,658 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 22:00:17,660 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 22:00:17,753 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 22:00:17,754 | WARNING | Gemini xatosi (urinish 1/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 22:00:18,737 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 22:00:19,530 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 22:00:19,555 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 22:00:19,661 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 22:00:19,746 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 22:00:19,747 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 22:00:19,757 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 22:00:19,774 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 22:00:19,776 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 22:00:19,901 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 22:00:19,903 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 22:00:19,989 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 22:00:19,990 | WARNING | Gemini xatosi (urinish 2/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 22:00:23,748 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 22:00:23,779 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 22:00:23,904 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 22:00:23,977 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 22:00:23,980 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 22:00:23,985 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 22:00:23,988 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-10-29 22:00:23,993 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 22:00:24,154 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 22:00:24,155 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 22:00:24,215 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-10-29 22:00:24,216 | WARNING | Gemini xatosi (urinish 3/3): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+2026-10-29 22:05:12,745 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent "HTTP/1.1 503 Service Unavailable"
+2026-10-29 22:05:12,747 | WARNING | Gemini xatosi (urinish 1/3): 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-10-29 22:05:14,748 | INFO | AFC is enabled with max remote calls: 10.
+2026-10-29 22:05:18,887 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent "HTTP/1.1 503 Service Unavailable"
+2026-10-29 22:05:18,889 | WARNING | Gemini xatosi (urinish 2/3): 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-10-29 22:05:22,889 | INFO | AFC is enabled with max remote calls: 10.
